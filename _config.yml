@@ -1,0 +1,8 @@
+baseurl: /webPage
+/webPage
+　　　　|--　_config.yml
+        |--　_layouts
+　　　　|　　　|--　default.html
+        |--　_posts
+　　　　|　　　|--　2018-08-30-hello-sunshine-moon.html
+        |--　index.html
